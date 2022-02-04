@@ -77,8 +77,8 @@ npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/RiskiRj/GMSBOTZ.git
+cd GMSBOTZ
 npm install
 npm start
 ```
@@ -90,8 +90,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/RiskiRj/GMSBOTZ.git
+cd GMSBOTZ
 npm install
 npm start
 ```
